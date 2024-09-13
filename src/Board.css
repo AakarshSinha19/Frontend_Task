@@ -1,0 +1,15 @@
+.board {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding: 20px;
+  }
+  
+  .controls {
+    margin-bottom: 20px;
+  }
+  
+  select {
+    margin-right: 10px;
+  }
+  
